@@ -1,4 +1,13 @@
-### Hi there 👋
+# Hello Mate
+I am Lajuan Station
+* Currently Studying Computer Engineering at University of Nebraska-Omaha
+
+## I'm Currently Working on
+
+* Intel 8080 Cpu Emulator in C
+* Chess Game using Pygame
+
+## Programming Languages
 
 <!--
 **WuGambinos/WuGambinos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
