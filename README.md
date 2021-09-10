@@ -1,4 +1,4 @@
-# Bonjour
+# Bonjour :wave:
 I am Lajuan Station
 * Currently Studying Computer Engineering at University of Nebraska-Omaha
 
