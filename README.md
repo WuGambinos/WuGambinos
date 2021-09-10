@@ -10,13 +10,13 @@ I am Lajuan Station
 ## Programming Languages
 
 <!-- Python -->
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40">
 
 <!-- C -->
-<img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height = "40" style="vertical-align:top; margin:4px">
+<img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height = "40">
 
 <!-- Java -->
-<img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height = "40" style="vertical-align:top; margin:4px">
+<img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height = "40">
 
 ## Tools
 
