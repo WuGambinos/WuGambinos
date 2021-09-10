@@ -1,4 +1,4 @@
-# Hello Mate
+# Bonjour
 I am Lajuan Station
 * Currently Studying Computer Engineering at University of Nebraska-Omaha
 
@@ -8,6 +8,21 @@ I am Lajuan Station
 * Chess Game using Pygame
 
 ## Programming Languages
+
+<!-- Python -->
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
+
+<!-- C -->
+<img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height = "40" style="vertical-align:top; margin:4px">
+
+<!-- Java -->
+<img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height = "40" style="vertical-align:top; margin:4px">
+
+## Tools
+
+
+
+
 
 <!--
 **WuGambinos/WuGambinos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
