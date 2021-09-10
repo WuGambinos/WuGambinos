@@ -16,9 +16,12 @@ I am Lajuan Station
 <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height = "40">
 <!-- Java -->
 <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height = "40">
-</p>
+
 
 ## Tools
+<!-- Amtel Studio-->
+<img src="https://www.it.unlv.edu/sites/default/files/styles/250_width/public/sites/default/files/assets/software/icons/atmel_studio.png?itok=Y_BrK5R2" height="40">
+</p>
 
 
 
