@@ -31,6 +31,18 @@ I am Lajuan Station
 <!-- Intellij -->
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" height="40">
 
+<!-- Arduino -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/1024px-Arduino_Logo.svg.png" height="40">
+
+<!-- Git -->
+<img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height="40">
+
+<!-- GitHub-->
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png" height="40">
+
+
+
+
 </p>
 
 
