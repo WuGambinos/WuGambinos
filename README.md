@@ -16,11 +16,21 @@ I am Lajuan Station
 <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height = "40">
 <!-- Java -->
 <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height = "40">
-
+</p>
 
 ## Tools
+<p>
 <!-- Amtel Studio-->
 <img src="https://www.it.unlv.edu/sites/default/files/styles/250_width/public/sites/default/files/assets/software/icons/atmel_studio.png?itok=Y_BrK5R2" height="40">
+<!-- VS Code -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png" height="40">
+
+<!-- Eclipse -->
+<img src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png" height="40">
+
+<!-- Intellij -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" height="40">
+
 </p>
 
 
