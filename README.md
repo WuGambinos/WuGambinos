@@ -40,10 +40,18 @@ I am Lajuan Station
 <!-- GitHub-->
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png" height="40">
 
+<!-- Multisim -->
+<img src="https://blog.digilentinc.com/wp-content/uploads/2015/01/184_multisim_app_icon_ill-600x594.png" height="40">
+
 
 
 
 </p>
+
+
+## Github Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WuGambinos&theme=github_dark)
 
 
 
