@@ -4,7 +4,7 @@ I am Lajuan Station
 
 ## I'm Currently Working on
 
-* Intel 8080 Cpu Emulator in C
+* Intel 8080 CPU Emulator in C
 * Chess Game using Pygame
 
 ## Programming Languages
