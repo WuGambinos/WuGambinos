@@ -6,7 +6,7 @@ I am Lajuan Station
 
  <!--* Intel 8080 CPU Emulator in C-->
 * Learning Go
-    ** tic-tac-toe game in go with GUI and AI
+    * Tic-Tac-Toe game in Go with GUI and AI
 * Learning TypeScript
 
 ## Programming Languages
