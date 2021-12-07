@@ -4,9 +4,10 @@ I am Lajuan Station
 
 ## I'm Currently Working on
 
-* Intel 8080 CPU Emulator in C
+ <!--* Intel 8080 CPU Emulator in C-->
 * Learning Go
-<!-- * Chess Game using Pygame -->
+    ** tic-tac-toe game in go with GUI and AI
+* Learning TypeScript
 
 ## Programming Languages
 
