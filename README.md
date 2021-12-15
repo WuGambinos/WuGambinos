@@ -5,9 +5,10 @@ I am Lajuan Station
 ## I'm Currently Working on
 
  <!--* Intel 8080 CPU Emulator in C-->
-* Learning Go
-    * Tic-Tac-Toe game in Go with GUI and AI
-* Learning TypeScript
+<!-- * Learning Go
+    * Tic-Tac-Toe game in Go with GUI and AI -->
+    * Learning VDHL
+<!-- * Learning TypeScript -->
 
 ## Programming Languages
 
