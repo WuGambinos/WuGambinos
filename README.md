@@ -7,7 +7,9 @@ I am Lajuan Station
  <!--* Intel 8080 CPU Emulator in C-->
 <!-- * Learning Go
     * Tic-Tac-Toe game in Go with GUI and AI -->
-    * Learning VDHL
+    * Making Gameboy Emulator in Rust
+    * Learning React and Typescript
+    * Learnign Algo and Ds
 <!-- * Learning TypeScript -->
 
 ## Programming Languages
