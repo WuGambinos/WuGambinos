@@ -26,7 +26,7 @@ I am Lajuan Station
 ## Tools
 <p>
 <!-- Amtel Studio-->
-<img src="https://www.it.unlv.edu/sites/default/files/styles/250_width/public/sites/default/files/assets/software/icons/atmel_studio.png?itok=Y_BrK5R2" height="40">
+<img src="https://www.it.unlv.edu/sites/default/files/styles/250_width/public/sites/default/files/assets/software/logos/atmel_studio.png?itok=bO_6oTM6" height="40">
 <!-- VS Code -->
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png" height="40">
 
