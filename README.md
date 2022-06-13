@@ -8,8 +8,6 @@ I am Lajuan Station
 <!-- * Learning Go
     * Tic-Tac-Toe game in Go with GUI and AI -->
     * Making Gameboy Emulator in Rust
-    * Learning React and Typescript
-    * Learnign Algo and Ds
 <!-- * Learning TypeScript -->
 
 ## Programming Languages
