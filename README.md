@@ -1,5 +1,5 @@
 # Bonjour :wave:
-I am Lajuan Station
+My name is Lajuan Station
 
 ## I'm Currently Working on
 
