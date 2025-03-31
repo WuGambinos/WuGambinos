@@ -6,7 +6,7 @@ My name is Lajuan Station
  <!--* Intel 8080 CPU Emulator in C-->
 <!-- * Learning Go
     * Tic-Tac-Toe game in Go with GUI and AI -->
-    * Making Gameboy Emulator in Rust
+    * Rewriting Chess Engine in C
 <!-- * Learning TypeScript -->
 
 ## Programming Languages
