@@ -3,11 +3,8 @@ My name is Lajuan Station
 
 ## I'm Currently Working on
 
- <!--* Intel 8080 CPU Emulator in C-->
-<!-- * Learning Go
-    * Tic-Tac-Toe game in Go with GUI and AI -->
     * Rewriting Chess Engine in C
-<!-- * Learning TypeScript -->
+    * Decompiling Street Fighter III: 3rd Strike)
 
 ## Programming Languages
 
