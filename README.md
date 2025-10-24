@@ -4,7 +4,7 @@ My name is Lajuan Station
 ## I'm Currently Working on
 
     * Rewriting Chess Engine in C
-    * Decompiling Street Fighter III: 3rd Strike
+    * Decompiling Resident Evil Code Veronica X (PS2)
 
 ## Programming Languages
 
