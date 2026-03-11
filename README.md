@@ -3,7 +3,7 @@ My name is Lajuan Station
 
 ## I'm Currently Working on
 
-    * Custom Architecture (Emulator, Assembler, Disassembler)
+    * Custom Architecture (Digital Circuit, Emulator, Assembler, Disassembler)
     * Decompiling Resident Evil Code Veronica X (PS2)
 
 ## Programming Languages
