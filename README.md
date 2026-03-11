@@ -3,7 +3,7 @@ My name is Lajuan Station
 
 ## I'm Currently Working on
 
-    * Rewriting Chess Engine in C
+    * Custom Architecture (Emulator, Assembler, Disassembler)
     * Decompiling Resident Evil Code Veronica X (PS2)
 
 ## Programming Languages
