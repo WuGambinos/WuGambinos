@@ -15,6 +15,9 @@ My name is Lajuan Station
 <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height = "40">
 <!-- Java -->
 <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height = "40">
+<!-- Rust -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" height = "40"/>
+          
 </p>
 
 ## Tools
@@ -23,34 +26,24 @@ My name is Lajuan Station
 <img src="https://www.it.unlv.edu/sites/default/files/styles/250_width/public/sites/default/files/assets/software/logos/atmel_studio.png?itok=bO_6oTM6" height="40">
 <!-- VS Code -->
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png" height="40">
-
 <!-- Eclipse -->
 <img src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png" height="40">
-
 <!-- Intellij -->
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" height="40">
-
 <!-- Arduino -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/1024px-Arduino_Logo.svg.png" height="40">
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" height="40"/>
 <!-- Git -->
 <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height="40">
-
-<!-- GitHub-->
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png" height="40">
-
-<!-- Multisim -->
-<img src="https://blog.digilentinc.com/wp-content/uploads/2015/01/184_multisim_app_icon_ill-600x594.png" height="40">
-
-
-
-
+<!--Neovim-->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original-wordmark.svg" height="40"/>
+         
 </p>
 
 
+<!--
 ## Github Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WuGambinos&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WuGambinos&theme=github_dark) -->
 
 
 
